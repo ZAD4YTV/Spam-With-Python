@@ -14,7 +14,7 @@ pip install -r requeriments.txt
 
 #### Manualy
 
-Download <https://codeload.github.com/ZAD4YTV/Spam-With-Python/zip/main>
+Download (here)[https://codeload.github.com/ZAD4YTV/Spam-With-Python/zip/main]
 
 ### Instalation
 
